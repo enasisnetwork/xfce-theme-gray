@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Enasis Network Xfce Gray Numix
+Comment=Gray theme generated using Oomox and Numix
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=enasisnetwork-xfce-theme-gray
+GtkTheme=enasisnetwork-xfce-theme-gray
+IconTheme=enasisnetwork-xfce-theme-gray
+MetacityTheme=enasisnetwork-xfce-theme-gray
