@@ -1,0 +1,14 @@
+{
+  "name": "enasis_network_gray_syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Enasis Network gray based syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
