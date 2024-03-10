@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 sed -i \
          -e 's/rgb(0%,0%,0%)/#181818/g' \
          -e 's/rgb(100%,100%,100%)/#efefef/g' \
