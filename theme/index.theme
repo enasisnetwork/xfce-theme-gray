@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=theme.new
-Comment=A partially sexual act; when a female (of any species; mostly humanoids) rubs the ears/lobes of a male Ferengi, creating sensual emotions and chemical reactions in the male (and sometimes in the female).
+Name=xfce-theme-gray
+Comment=Simple theme for Desktop Environments.
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-Name=theme.new
-GtkTheme=theme.new
-IconTheme=theme.new
-MetacityTheme=theme.new
+Name=xfce-theme-gray
+GtkTheme=xfce-theme-gray
+IconTheme=xfce-theme-gray
+MetacityTheme=xfce-theme-gray

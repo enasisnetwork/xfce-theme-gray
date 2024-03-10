@@ -31,7 +31,7 @@
 # * Numberless icons are from Gravit Designer, under GPL3/MIT
 
 [Icon Theme]
-Name=oomox-xfce-theme-gray
+Name=enasisnetwork-xfce-theme-gray
 
 Comment=A fully monochromatic icons theme for users of dark graphic environments
 Comment[af]='N volle monochromatiese ikone tema vir gebruikers van donker grafiese omgewings
@@ -40,9 +40,9 @@ Comment[de]=Ein völliges einfarbigen Ikonenthema für die Benutzer von dunklen 
 Comment[de_AT]=Ein völliges einfarbigen Ikonenthema für die Benützer von dunklen Grafikumgebungen
 Comment[de_CH]=Ein völliges einfarbigen Ikonenthema für die Nützer von dunklen Grafikumgebungen
 Comment[el]=Ένα πλήρες μονοχρωματικό θέμα εικονιδίων για χρήστες μαυριδερων γραφικών περιβάλλοντος
-Comment[es]=Un tema de iconos completamente monocromático para los usuarios de entornos gráficos oscuros 
+Comment[es]=Un tema de iconos completamente monocromático para los usuarios de entornos gráficos oscuros
 Comment[fr]=Un thème d'icônes entièrement monochromatique pour les utilisateurs d'environnements graphiques sombres
-Comment[it]=Un tema di icone completamente monocromatico per utenti di ambienti grafici scuri 
+Comment[it]=Un tema di icone completamente monocromatico per utenti di ambienti grafici scuri
 Comment[nl]=Een volledig monochromatisch iconen thema voor gebruikers van donkere grafische omgevingen
 Comment[ka]=სრულიად ერთფეროვანი სურათების თემა მუქი გრაფიკული ინტერფეისის მომხმარებელთათვის
 Comment[pt_BR]=Um tema completamente monocromático de ícones para usuários de ambientes gráficos escuros
